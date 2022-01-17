@@ -1,0 +1,19 @@
+{
+    "name": "apippo.scriptable-object-arch.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:767f41d874e0b438db99dc62ebcba51c",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
