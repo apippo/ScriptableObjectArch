@@ -1,0 +1,11 @@
+{
+  "name": "com.apippo.scriptable-object-arch",
+  "version": "1.0.0",
+  "displayName": "Scriptable Object Architecture",
+  "description": "Simple scripts for game architecture using scriptable objects",
+  "unity": "2020.3",
+  "unityRelease": "22f1",
+  "author": {
+    "name": "apippo"
+  }
+}
